@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body{
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+}
+h1, h2, p {margin-top: 0} 
+#top {
+	
+	background: black;
+	color: white;
+	text-align: center;
+	padding-top: 20px;
+	margin-bottom: 50px;
+	padding-bottom: 20px;
+	cursor: pointer;
+}
+
+.container { margin: 0; padding: 0;
+	background: #171717; 
+	width: 1920px; height: auto;
+	
+}
+.wrapper {background: #9F9F9F ; margin: 0 auto; text-align: center;
+	padding-left: 50px;
+	border-radius: 20px 20px 20px 20px;
+	padding: 40px 20px 40px 20px;
+	width: 800px;}
+
+#bottom {float: left; color: white; width: 1920px; background: #171717;}
+#bottom p {margin: 50px auto 20px 20px;}
+a {color: black}
